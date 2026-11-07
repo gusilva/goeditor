@@ -3,7 +3,7 @@ package goeditor
 import (
 	"testing"
 
-	"github.com/ionut-t/goeditor/core"
+	"github.com/gusilva/goeditor/core"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

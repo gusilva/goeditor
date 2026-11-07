@@ -8,7 +8,7 @@ import (
 
 	tea "charm.land/bubbletea/v2"
 	"github.com/charmbracelet/x/ansi"
-	"github.com/ionut-t/goeditor/highlighter"
+	"github.com/gusilva/goeditor/highlighter"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

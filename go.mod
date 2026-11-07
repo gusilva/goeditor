@@ -1,4 +1,4 @@
-module github.com/ionut-t/goeditor
+module github.com/gusilva/goeditor
 
 go 1.26.6
 

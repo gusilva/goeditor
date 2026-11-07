@@ -8,8 +8,8 @@ import (
 	"unicode/utf8"
 
 	"charm.land/lipgloss/v2"
-	"github.com/ionut-t/goeditor/core"
-	"github.com/ionut-t/goeditor/highlighter"
+	"github.com/gusilva/goeditor/core"
+	"github.com/gusilva/goeditor/highlighter"
 	"github.com/rivo/uniseg"
 )
 

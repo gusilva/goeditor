@@ -17,8 +17,8 @@ import (
 	tea "charm.land/bubbletea/v2"
 	"charm.land/lipgloss/v2"
 	"github.com/atotto/clipboard"
-	"github.com/ionut-t/goeditor/core"
-	"github.com/ionut-t/goeditor/highlighter"
+	"github.com/gusilva/goeditor/core"
+	"github.com/gusilva/goeditor/highlighter"
 )
 
 // SearchOptions represents options for search operations
