@@ -1,6 +1,7 @@
 > **Fork note.** This is `ionut-t/goeditor` under the module path `github.com/gusilva/goeditor`, carrying
 > [#141](https://github.com/ionut-t/goeditor/pull/141) (one signal listener) and
-> [#142](https://github.com/ionut-t/goeditor/pull/142) (`WithDarkBackground`) for
+> [#142](https://github.com/ionut-t/goeditor/pull/142) (`WithDarkBackground`) and
+> [#143](https://github.com/ionut-t/goeditor/pull/143) (`IsCompletionMenuVisible`) for
 > [Simmer](https://github.com/gusilva/simmer) until they are released upstream. Use upstream otherwise.
 
 # GoEditor
